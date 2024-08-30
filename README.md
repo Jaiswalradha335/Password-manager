@@ -1,1 +1,1 @@
-this is a simple password manager
+This is a simple password manager
